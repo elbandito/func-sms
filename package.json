@@ -1,0 +1,12 @@
+{
+  "name": "@elbandito/hello",
+  "version": "1.0.0",
+  "description": "riff hello sample",
+  "main": "hello.js",
+  "scripts": {},
+  "author": "elbandito",
+  "license": "MIT",
+  "dependencies": {
+    "twilio": "^3.30.0"
+  }
+}
