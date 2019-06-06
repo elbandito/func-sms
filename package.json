@@ -1,8 +1,8 @@
 {
-  "name": "@elbandito/hello",
+  "name": "@elbandito/func-sms",
   "version": "1.0.0",
-  "description": "riff hello sample",
-  "main": "hello.js",
+  "description": "func sms sample",
+  "main": "sms.js",
   "scripts": {},
   "author": "elbandito",
   "license": "MIT",
